@@ -1,0 +1,1 @@
+# frigidaire-v1-api
